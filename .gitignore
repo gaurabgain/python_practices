@@ -1,0 +1,7 @@
+#all .py files outside of angela yu directory
+*.py
+#dump folder
+dump
+newlogs.txt
+
+# git token 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
