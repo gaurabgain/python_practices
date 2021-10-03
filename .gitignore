@@ -2,7 +2,7 @@
 *.py
 #dump folder
 dump
-newlogs.txt
+token.txt
 
 
 # Byte-compiled / optimized / DLL files
