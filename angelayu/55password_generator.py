@@ -27,4 +27,3 @@ for i in range(len(password)):
 	random_password+=password[c]
 	
 print(f"Your random generated password is {random_password}")
-#print(f"nr_letters is a {type(nr_letters)}.")
